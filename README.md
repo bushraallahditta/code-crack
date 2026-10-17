@@ -63,20 +63,7 @@ HELLO
 - How the modulo operator helps letters wrap around the alphabet.
 - How to reuse a function for both encoding and decoding.
 
-## 🔮 Future Improvements
 
-- Handle invalid numeric inputs more effectively.
-- Save encoded and decoded messages to a file.
-- Improve the user interface.
 
-## ⚠️ Note
 
-The Caesar Cipher is a simple educational encryption technique. It is not secure enough to protect sensitive information.
 
-## 👩‍💻 Author
-
-Created as a Python learning project to strengthen my programming fundamentals.
-
----
-
-⭐ If you find this project helpful, feel free to star the repository!
