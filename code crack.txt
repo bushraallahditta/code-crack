@@ -1,0 +1,21 @@
+1. Encode
+2. Decode
+3. Exit
+Enter choice: 1
+Enter message: hi its me bushra 
+Enter shift (0-25): 3
+Encoded message: kl lwv ph exvkud 
+
+1. Encode
+2. Decode
+3. Exit
+Enter choice: 2
+Enter message: kl lwv ph exvkud
+Enter shift (0-25): 3
+Decoded message: hi its me bushra
+
+1. Encode
+2. Decode
+3. Exit
+Enter choice: 3
+thank you.
